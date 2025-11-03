@@ -5,6 +5,9 @@
 
 <p>The framework integrates multiple geometric deep learning paradigms to handle non-Euclidean data structures, providing end-to-end pipelines for 3D reconstruction from raw point clouds, semantic scene understanding, spatial relationship reasoning, and geometric feature extraction.</p>
 
+<img width="758" height="395" alt="image" src="https://github.com/user-attachments/assets/b8d572d8-66c8-435f-8688-6eb2b94948ff" />
+
+
 <h2>System Architecture</h2>
 <p>The system follows a modular architecture with five core components that interact through well-defined interfaces:</p>
 
@@ -34,6 +37,9 @@ Input Point Cloud/Mesh
 │ • Spatial Relations            │
 └─────────────────────────────────┘
 </code></pre>
+
+<img width="878" height="472" alt="image" src="https://github.com/user-attachments/assets/a7b7bc45-315d-4fde-b992-9b70015a1662" />
+
 
 <h3>Data Flow</h3>
 <p>The system processes 3D data through multiple transformation stages:</p>
@@ -111,6 +117,9 @@ Input Point Cloud/Mesh
   <li><strong>Multi-Device Support</strong>: CPU/GPU processing with automatic device placement</li>
   <li><strong>Extensible Framework</strong>: Easy integration of new models and datasets</li>
 </ul>
+
+<img width="860" height="459" alt="image" src="https://github.com/user-attachments/assets/bd34f172-4e70-42ca-9220-af3ec32fe841" />
+
 
 <h2>Installation</h2>
 
@@ -342,6 +351,36 @@ geometric_deep_learning_3d/
   <li><strong>ScanNet & S3DIS</strong>: For real-world 3D scene datasets</li>
 </ul>
 
-<p><strong>Development Team</strong>: mwasifanwar and contributors</p>
-<p><strong>License</strong>: This project is released under the MIT License</p>
-<p><strong>Contact</strong>: For questions and contributions, please open an issue on GitHub</p>
+<br>
+
+<h2 align="center">✨ Author</h2>
+
+<p align="center">
+  <b>M Wasif Anwar</b><br>
+  <i>AI/ML Engineer | Effixly AI</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mwasifanwar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:wasifsdk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://mwasif.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome" alt="Website">
+  </a>
+  <a href="https://github.com/mwasifanwar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+<br>
+
+---
+
+<div align="center">
+
+### ⭐ Don't forget to star this repository if you find it helpful!
+
+</div>
